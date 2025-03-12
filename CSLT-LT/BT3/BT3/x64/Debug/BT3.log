@@ -1,4 +1,0 @@
-﻿  BT3.cpp
-C:\Users\banba\OneDrive\Documents\BT3\BT3.cpp(24,31): warning C4244: '-=': conversion from 'double' to 'size_t', possible loss of data
-C:\Users\banba\OneDrive\Documents\BT3\BT3.cpp(25,14): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
-  BT3.vcxproj -> C:\Users\banba\OneDrive\Documents\BT3\x64\Debug\BT3.exe

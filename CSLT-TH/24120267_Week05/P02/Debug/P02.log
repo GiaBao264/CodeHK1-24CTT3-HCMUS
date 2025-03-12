@@ -1,7 +1,0 @@
-﻿  Header.cpp
-  P02.cpp
-C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\24120267_Week05\P02\P02.cpp(12,8): warning C4101: 'comparelastname': unreferenced local variable
-C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\24120267_Week05\P02\P02.cpp(11,8): warning C4101: 'comparefirstname': unreferenced local variable
-C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\24120267_Week05\P02\P02.cpp(13,8): warning C4101: 'comparedob': unreferenced local variable
-  Generating Code...
-  P02.vcxproj -> C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\24120267_Week05\Debug\P02.exe
