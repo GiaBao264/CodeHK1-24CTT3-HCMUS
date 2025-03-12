@@ -1,0 +1,3 @@
+﻿  P05_Ham.cpp
+D:\24120267_Week03\24120267_Week03\P05_Ham\P05_Ham.cpp(24,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  P05_Ham.vcxproj -> D:\24120267_Week03\24120267_Week03\Debug\P05_Ham.exe

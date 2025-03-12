@@ -1,0 +1,14 @@
+﻿  BT4.cpp
+C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\BT4\BT4.cpp(7,18): error C2065: 'k': undeclared identifier
+C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\BT4\BT4.cpp(7,21): error C2143: syntax error: missing ';' before '{'
+C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\BT4\BT4.cpp(8,15): error C2065: 'k': undeclared identifier
+C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\BT4\BT4.cpp(9,2): error C2059: syntax error: 'if'
+C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\BT4\BT4.cpp(9,25): error C2143: syntax error: missing ';' before '{'
+C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\BT4\BT4.cpp(9,25): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\BT4\BT4.cpp(16,2): error C2059: syntax error: 'else'
+C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\BT4\BT4.cpp(16,7): error C2143: syntax error: missing ';' before '{'
+C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\BT4\BT4.cpp(16,7): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\BT4\BT4.cpp(19,1): error C2059: syntax error: '}'
+C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\BT4\BT4.cpp(19,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\BT4\BT4.cpp(21,12): error C2143: syntax error: missing ';' before '{'
+C:\Users\banba\OneDrive\Documents\HCMUS Study\Coding\BT4\BT4.cpp(21,12): error C2447: '{': missing function header (old-style formal list?)

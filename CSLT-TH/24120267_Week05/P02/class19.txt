@@ -1,0 +1,7 @@
+Student 1: 
+ID: 19120678
+Name: Nguyen Van A
+GPA: 3.5
+Address: Số 1 Đường ABC Quận 1 TP. Hồ Chí Minh
+Birthday: 1/1/2000
+

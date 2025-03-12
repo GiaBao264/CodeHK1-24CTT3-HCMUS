@@ -1,0 +1,14 @@
+19120678
+Nguyen Van A
+3.5
+Số 1 Đường ABC Quận 1 TP. Hồ Chí Minh
+01
+01
+2000
+18120678
+Tran Thi B
+3.7
+Số 2 Đường DEF Quận 2 TP. Hồ Chí Minh
+02
+02
+2001

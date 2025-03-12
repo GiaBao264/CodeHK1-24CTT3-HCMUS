@@ -1,0 +1,27 @@
+Nhap 1 ngay, thang, nam la: 
+2004 2 28
+
+Nhap 2 ngay, thang, nam la: 
+2004 2 28
+2006 12 31
+
+Ngay da dinh dang: Feb 28 4
+
+Ngay thu 1 be hon ngay thu 2
+
+Ngay mai la ngay: 2004 2 29
+
+Ngay hom qua la ngay: 2004 2 27
+
+Tang them so ngay k la: 2004 6 7
+
+Giam di so ngay k la: 2003 10 20
+
+Khoang cach tu 01/01/2004 den 28/2/2004 la: 59
+
+Khoang cach tu 01/01/1970 den 28/2/2004 la: 12477
+
+Khoang cach giua 28/2/2004 va 31/12/2006 la: 1068
+
+Ngay 28/2/2004 la thu: Saturday
+

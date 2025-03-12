@@ -1,0 +1,24 @@
+CS101
+Introduction to Programming
+Open
+30
+5
+3
+1900
+Gia Bao
+15
+8
+2000
+3.5
+1901
+Gia Duc
+22
+9
+2001
+3.8
+2415
+Thanh Binh
+30
+12
+2002
+3.2
