@@ -1,0 +1,6 @@
+﻿  BT1.cpp
+C:\Users\banba\OneDrive\Documents\BT1\BT1.cpp(16,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\banba\OneDrive\Documents\BT1\BT1.cpp(16,33): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\banba\OneDrive\Documents\BT1\BT1.cpp(20,43): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\banba\OneDrive\Documents\BT1\BT1.cpp(20,55): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  BT1.vcxproj -> C:\Users\banba\OneDrive\Documents\BT1\x64\Debug\BT1.exe
